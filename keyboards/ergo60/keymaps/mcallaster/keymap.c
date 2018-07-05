@@ -8,7 +8,6 @@
 
 #define LOWER MO(1)
 #define RAISE MO(2)
-#define FN    MO(3)
 
 // Mac sleep
 #define __SLEEP S(LCTL(KC_POWER))
